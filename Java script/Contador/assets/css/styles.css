@@ -1,0 +1,38 @@
+body{
+    background-color: gray;
+    font-family: sans-serif, sans-serif;
+}
+
+.corpinho{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    border: 1px solid transparent;
+}
+
+.corpinho h1{
+    background-color: #ff0000;
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.corpinho p{
+    background-color: #ff0000;
+    color: #fff;
+    padding: 6px;
+    border-radius: 4px;
+}
+
+.bottons{
+    border-radius: 50%;
+    text-decoration: none;
+    background-color: red;
+    color: #fff;
+}
+
+#currentNumber{
+    color: white;
+}
