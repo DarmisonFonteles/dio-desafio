@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+body{
+    font-family: 16px, sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50px;
+    background-color: rgb(243, 243, 253);
+}
+
+.nomez{
+    width: 20%;
+    height: 20%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.placaz{
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.corpotabela th{
+    font-size: 15px;
+    margin: 10px;
+    border: 1px solid #000;
+    width: 150px;
+    text-align: center;
+}
+
+tr td{
+    font-size: 15px;
+    margin: 10px;
+    border: 1px solid #000;
+    width: 150px;
+    text-align: center;
+}
+
